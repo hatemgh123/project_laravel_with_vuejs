@@ -1,0 +1,31 @@
+.card__after__navbar{
+    max-width: 202px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    height: 163px;
+}
+.main__bg{
+    color: #6c63ff
+}
+.display{
+    display: none;
+}
+.list__cour__prof{
+    color: black;
+    font-size: 19px;
+    text-decoration: none;
+}
+.list__cour__prof:hover{
+    color: #ffbc00;
+    text-decoration: none;
+}
+.list__cour__etud{
+    color: black;
+    text-decoration: none;
+}
+.list__cour__etud:hover{
+
+    text-decoration: none;
+}
